@@ -61,4 +61,5 @@ This Privacy Policy may be updated from time to time. Any changes will be publis
 
 If you have questions about this Privacy Policy, please contact:
 
-support@yourappdomain.com
+destek@starlius.com
+
